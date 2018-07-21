@@ -3,7 +3,7 @@ Spring boot service add Module Code Desgin
 We write the code, and you may be refactor your code on someday.
 This project using my module design. It's a example. It can help your code to module. And you can change or refactor your module code get easy. Hope this help you.
 ------------------------------------------------
-Step 1
+Step 1<br>
 Create your package what yor would like to, and create one or many class to extends.<br>
 com.star.web.module.Module<br>
 <br>
